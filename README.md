@@ -41,6 +41,12 @@ A clean, professional single-page website for jojaro LLC parent company and its 
 - Specialization in regulated industries (FDA & FAA)
 - Contract operations leadership consulting
 
+## Live Website
+
+**Production URL:** https://jojaro.com
+**Hosting:** IONOS with SSL Certificate
+**Repository:** https://github.com/bastille1961/jojaro-website
+
 ## To View Locally
 
 Simply open `index.html` in any web browser.
@@ -48,6 +54,13 @@ Simply open `index.html` in any web browser.
 ## To Deploy
 
 Upload both `index.html` and `styles.css` to your web hosting service. The files should be in the same directory.
+
+### Current Deployment Setup
+- **Hosting Provider:** IONOS
+- **Protocol:** SFTP (Port 22)
+- **Domain:** jojaro.com
+- **SSL:** Enabled (HTTPS)
+- **Auto-deployment:** Via GitHub repository
 
 ## Customization Notes
 
